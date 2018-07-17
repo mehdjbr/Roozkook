@@ -1,34 +1,3 @@
-#
-# Merged 3 parts of Intelligence Programmer
-# Author: Mehdi Jabari
-#
-# base class for ...
-#
-# Version: 0.3.0
-#
-# history:
-# 2017-07-27 fl   Created
-# 2017-07-28 fl   Fixed extensions and path
-# 2017-07-31 fl   Fixed some bugs
-#
-# coming soon:
-# 1- inserting a task with time and calculating its rest time
-# 2- completing rest timing function
-# 3- 
-# 4-
-# 5-
-# 7-
-# 8-
-# 9-
-# 10-
-# 11-
-
-# Copyright (c) 2017-2020 by SAGE Team
-# Copyright (c) 2017-2020 by Mehdi Jabari
-#
-# See the README file for information on usage and redistribution.
-#
-#
 
 MONTH_DAYS = {1: [0] * 31, 2: [0] * 31, 3: [0] * 31, 4: [0] * 31, 5: [0] * 31, 6: [0] * 31, 7: [0] * 30, 8: [0] * 30,
               9: [0] * 30, 10: [0] * 30, 11: [0] * 30, 12: [0] * 29}
